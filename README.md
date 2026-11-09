@@ -1,2 +1,0 @@
-# gitAIEP
-Metodologias
